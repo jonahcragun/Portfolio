@@ -23,6 +23,12 @@
     - description of responsibilities
 - separated by expandable tabs or interactive timeline
 
+Technologies and skills
+- tools
+- frameworks
+- languages
+- ai concepts/libraries
+
 ### Projects
 - Title
 - Brief description (what it does)
@@ -32,11 +38,6 @@
 - In depth description and story (why I built it, why I chose particular design choices, what I learned from building it)
 - display 3 projects (each take up a section of the page as you scroll down)
 
-### Technology and Skills
-- tools
-- frameworks
-- languages
-- ai concepts/libraries
 
 ### Contact
 - contact info (email)
@@ -56,3 +57,6 @@
 - for resume and experience put into expandable tabs
 - responsive
 - use contrast between header and page content
+- Profile pic shrinking effect
+    - large profile pic shrinks and moves into navbar as user scrolls down
+    - grows back to original position as user scrolls up
